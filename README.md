@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/banner.jpg" alt="banner" width="100%" />
+    <img src="https://i.pinimg.com/originals/b8/bd/a1/b8bda1aa0ab510c54ba1acfe09bbafca.gif" alt="banner" width="500" height="auto" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Aymane</h1>
@@ -19,10 +19,10 @@
 
 #### Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/html-5--v1.png" alt="html5" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/css3.png" alt="css3" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/javascript--v1.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/bootstrap--v2.png" alt="bootstrap" width="40" height="40"/> 
 </p>
 
 #### Backend
