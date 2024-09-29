@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://i.pinimg.com/originals/b8/bd/a1/b8bda1aa0ab510c54ba1acfe09bbafca.gif" alt="banner" width="500" height="auto" />
-</h1>
-
 <h1 align="center">Hi 👋, I'm Aymane</h1>
 <h3 align="center">🌍 A passionate full stack developer from Morocco</h3>
 
