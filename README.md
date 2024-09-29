@@ -36,4 +36,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aymaneonline&show_icons=true&locale=en" alt="aymaneonline" />
 </p>
 <p align="center">
-    <img src="https://github-readme-st
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymaneonline&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneonline" alt="streak" />
+</p>
+
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
+    <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://twitter.com/YOUR-LINK" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+</p>
