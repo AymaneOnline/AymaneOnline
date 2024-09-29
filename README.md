@@ -10,9 +10,8 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Laravel**
 - 🏗️ I love building full-stack projects using **PHP**, **JavaScript**, and **MySQL**.
-- 💬 Ask me about **Web Development**, **Open Source**, or **Full-Stack Development**.
+- 💬 Ask me about **Web Development**.
 - 📫 How to reach me: **aymaneprowork@gmail.com**
-- ⚡ Fun fact: I enjoy contributing to **open-source** and playing video games!
 
 ---
 
@@ -55,5 +54,5 @@
 
 ### 🌐 Connect with me
 <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/aymane-elboudadi-833a6b252/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
