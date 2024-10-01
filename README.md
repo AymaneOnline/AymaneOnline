@@ -6,7 +6,6 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Laravel**
 - 🏗️ I love building full-stack projects using **PHP**, **JavaScript**, and **MySQL**.
-- 💬 Ask me about **Web Development**.
 - 📫 How to reach me: **aymaneprowork@gmail.com**
 
 ---
