@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymane -- أيمن</h1>
-<h3 align="center">🌍 A passionate full stack developer from Morocco</h3>
+<h3 align="center">🌍 A passionate Front end developer from Morocco</h3>
 
 ---
 
@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/480/css3.png" alt="css3" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/480/javascript--v1.png" alt="javascript" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/480/bootstrap--v2.png" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/tailwindcss.png" alt="bootstrap" width="40" height="40"/> 
 </p>
 
 #### Backend
