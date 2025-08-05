@@ -7,6 +7,7 @@
 
 - 🎯 I'm a frontend developer focused on building responsive, accessible, and user-friendly web interfaces.  
 - 🧰 I enjoy working with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.  
+- 🌐 Check out my portfolio: [aymaneonline.github.io](https://aymaneonline.github.io/)  
 - 📫 Reach me at: **aymaneprowork@gmail.com**
 
 ---
