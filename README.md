@@ -32,7 +32,6 @@
 ### 📚 Currently Learning
 
 - React  
-- WordPress  
 - TypeScript (next)  
 - Next.js (soon after)
 
