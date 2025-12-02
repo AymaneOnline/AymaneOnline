@@ -8,7 +8,7 @@
 
 - 🌍 Based in **Morocco**
 - 🖥️ Portfolio: **[aymaneonline.dev](https://aymaneonline.dev)**
-- 🎯 Frontend Mentor: **[frontendmentor.io](https://www.frontendmentor.io/profile/AymaneOnline)**
+- 🎯 Practicing frontend skills on Frontend Mentor: **[frontendmentor.io](https://www.frontendmentor.io/profile/AymaneOnline)**
 - ✉️ Email: **contact@aymaneonline.dev**
 - 🧠 Currently learning **TypeScript**
 - ⚡ I enjoy building useful apps and crafting clean UI/UX.
