@@ -50,8 +50,7 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AymaneOnline&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com/?user=AymaneOnline&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AymaneOnline&theme=dark" alt="GitHub Streak Stats" />
 
 </div>
 
