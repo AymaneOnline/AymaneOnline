@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Aymane — أيمن</h1>
-<h3 align="center">Web Developer from Morocco</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
@@ -43,15 +43,5 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AymaneOnline&theme=dark" alt="GitHub Streak Stats" />
-
-</div>
 
 ---
