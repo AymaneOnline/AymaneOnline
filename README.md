@@ -50,20 +50,9 @@
 
 <div align="left">
 
-### ⭐ Overall Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=AymaneOnline&show_icons=true&theme=tokyonight" height="165" />
-
-### 🔥 Streak  
-<img src="https://streak-stats.demolab.com?user=AymaneOnline&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AymaneOnline&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=AymaneOnline&theme=tokyonight" />
 
 </div>
 
 ---
-
-## 🧩 Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneOnline&layout=compact&theme=tokyonight" />
-
----
-
-<!-- Footer -->
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
