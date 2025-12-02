@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I enjoy making responsive, accessible, and user-friendly web interfaces.
-
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [aymaneonline.dev](http://aymaneonline.dev)
 * ✉️  You can contact me at [contact@aymaneonline.dev](mailto:contact@aymaneonline.dev)
