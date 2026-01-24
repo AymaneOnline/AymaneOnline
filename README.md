@@ -10,7 +10,7 @@
 - 🖥️ Portfolio: **[aymaneonline.dev](https://aymaneonline.dev)**
 - 🎯 Practicing frontend skills on Frontend Mentor: **[frontendmentor.io](https://www.frontendmentor.io/profile/AymaneOnline)**
 - ✉️ Email: **contact@aymaneonline.dev**
-- 🧠 Currently learning **TypeScript**
+- 🧠 Currently learning **TypeScript** and **Next.js**
 - ⚡ I enjoy building useful apps and crafting clean UI/UX.
 
 ---
