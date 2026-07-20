@@ -12,6 +12,7 @@
 - ✉️ Email: **contact@aymaneonline.dev**
 - 🧠 Currently learning **TypeScript** and **Next.js**
 - ⚡ I enjoy building useful apps and crafting clean UI/UX.
+- Currently working on **[GetWaitly](https://getwaitly.com)**
 
 ---
 
